@@ -1,0 +1,8 @@
+name: 'Open Source Reviews'
+description: 'Code reviews for the open source community'
+outputs:
+  reviewer:
+    description: 'The selected reviewer to review your PR'
+runs:
+  using: 'node12'
+  main: 'index.js'

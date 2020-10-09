@@ -1,0 +1,19 @@
+{
+  "name": "open-source-reviews",
+  "version": "1.0.0",
+  "description": "GitHub action for the open source community to get reviews on open source projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open-source",
+    "review"
+  ],
+  "author": "martin-bucinskas <7595909+martin-bucinskas@users.noreply.github.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
